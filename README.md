@@ -1,6 +1,5 @@
-# Welcome to your CDK TypeScript project
-
-This is a blank project for CDK development with TypeScript.
+# CRUD-API Demo
+It consist of a basic aws-cdk(API Gateway, Lambda, DynamoDB) stack. This shows how we can develop --> deploy --> test a simple API using API gateway, Lambda and DynamoDB using cdk v2
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
